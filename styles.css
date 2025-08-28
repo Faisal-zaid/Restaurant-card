@@ -26,6 +26,11 @@ margin: 30px;
 justify-content: space-between
 
 }
+.special{
+    display:flex;
+    margin: 30px;
+    justify-content: space-between;
+}
 .Snacks {
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 background-color: beige;
@@ -58,9 +63,12 @@ border-radius: 3%;
         
 
 }
-#swahili-dish {
+#special-dish {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: bisque;
+    background-image: url('https://cdn.foodaciously.com/static/recipe/9yyfV7NERqMagoV6Z0rU/kenyan-pilau-rice-2-3673b6aa500f620d8075c23c6bda3e4d-1280-q60.jpg');
+    font-size: larger;
+    font-weight: bolder;
+    color: red;
     padding: 70px;
         margin: 70px;
         margin-left: 400px;
