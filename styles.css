@@ -1,5 +1,9 @@
 body {
-    background-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zerochan.net%2F2755876&psig=AOvVaw2ybhQlphFhDkij_awmEU7P&ust=1756474024022000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiWtOnNrY8DFQAAAAAdAAAAABAX;
+    min-height: 100vh;
+    background-image: url('https://cdn.choosechicago.com/uploads/2024/08/BEEF-LIBERTY-PDR-2-1800x1200.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 header {
     background-color: red;
