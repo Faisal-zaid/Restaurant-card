@@ -1,6 +1,15 @@
 header {
     background-color: red;
-}
-section {
-    background-color: beige;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    border-radius: 45%;
+    margin-left:30px;
+    margin-right: 30px;
+    text-align: center;
+    font-size: larger;
+    font-weight: 900;
+    font-family: "Sonsie One", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
