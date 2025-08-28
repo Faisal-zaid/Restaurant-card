@@ -1,3 +1,6 @@
+body {
+    background-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zerochan.net%2F2755876&psig=AOvVaw2ybhQlphFhDkij_awmEU7P&ust=1756474024022000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiWtOnNrY8DFQAAAAAdAAAAABAX;
+}
 header {
     background-color: red;
     padding-top: 30px;
@@ -13,3 +16,46 @@ header {
   font-weight: 400;
   font-style: normal;
 }
+.Snacks {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: beige;
+padding: 70px;
+margin: 70px;
+margin-left: 400px;
+margin-right: 400px;
+border-radius: 3%;
+
+}
+#Comrade {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+        background: brown;
+        padding: 70px;
+        margin: 70px;
+        margin-left: 400px;
+        margin-right: 400px;
+        border-radius: 3%;
+        
+}
+    
+#Beverage {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: gray;
+    padding: 70px;
+        margin: 70px;
+        margin-left: 400px;
+        margin-right: 400px;
+        border-radius: 3%;
+        
+
+}
+#swahili-dish {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: bisque;
+    padding: 70px;
+        margin: 70px;
+        margin-left: 400px;
+        margin-right: 400px;
+        border-radius: 3%;
+        
+}
+
