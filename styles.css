@@ -23,13 +23,24 @@ header {
 .sub {
 display:flex;
 margin: 30px;
-justify-content: space-between
-
+transition: 0.3s;
+cursor: pointer;
+justify-content: space-between;
+}
+#Beverage .sub:hover {
+    background-color: black;
+    font-size: 100px;
 }
 .special{
     display:flex;
     margin: 30px;
     justify-content: space-between;
+    transition: background-color 0.3s;
+    cursor: pointer;
+
+}
+.special:hover {
+    background-color: white;
 }
 .Snacks {
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
