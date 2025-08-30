@@ -28,7 +28,15 @@ cursor: pointer;
 justify-content: space-between;
 }
 #Beverage .sub:hover {
-    background-color: black;
+    background-color: red;
+    font-size: 100px;
+}
+#Snacks .sub:hover {
+    background-color: red;
+    font-size: 100px;
+}
+#Comrade .sub:hover {
+    background-color: red;
     font-size: 100px;
 }
 .special{
